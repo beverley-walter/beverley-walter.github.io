@@ -53,17 +53,17 @@
   </url>
   <url>
     <loc>http://beverley-walter.github.io/references.html</loc>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/stephens.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://beverley-walter.github.io/images/ray.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://beverley-walter.github.io/images/harrison.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/stevef.jpg</image:loc>
     </image:image>
   </url>
   <url>
