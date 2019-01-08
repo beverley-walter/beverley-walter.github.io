@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io" resolutions="1x" timestamp="1546933652391">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io" resolutions="1x" timestamp="1546933929902">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="111492905" ref="index:case-studies:references:perconal-deets---cv:side-hustle"/>
     <file name="index.css" crc="354974608" ref="index"/>
     <file name="iefonts_index.css" crc="85332193" ref="index"/>
-    <file name="case-studies.css" crc="3845936812" ref="case-studies"/>
+    <file name="case-studies.css" crc="432871823" ref="case-studies"/>
     <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
-    <file name="references.css" crc="237757356" ref="references"/>
+    <file name="references.css" crc="3903593172" ref="references"/>
     <file name="iefonts_references.css" crc="3789963315" ref="references"/>
     <file name="perconal-deets---cv.css" crc="3956224998" ref="perconal-deets---cv"/>
     <file name="iefonts_perconal-deets---cv.css" crc="4281278510" ref="perconal-deets---cv"/>
@@ -24,7 +24,7 @@
     <file name="require.js" crc="4157109226" ref="perconal-deets---cv:case-studies:side-hustle:references:index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="perconal-deets---cv"/>
+    <file name="blank.gif" crc="4208392903" ref="perconal-deets---cv:case-studies"/>
     <file name="u145-8.png" crc="3869494194" ref="perconal-deets---cv:case-studies:side-hustle:references:index"/>
     <file name="u242-8.png" crc="181240085" ref="perconal-deets---cv:case-studies:side-hustle:references:index"/>
     <file name="u246-8.png" crc="403386536" ref="perconal-deets---cv:case-studies:side-hustle:references:index"/>
@@ -81,8 +81,8 @@
     <file name="u765-18.png" crc="4066429010" ref="index"/>
   </folder>
   <file name="perconal-deets---cv.html" crc="4189032501" seo="true" mt="1546931435220" redirect="true"/>
-  <file name="case-studies.html" crc="148213051" seo="true" mt="1546931679971" redirect="true"/>
+  <file name="case-studies.html" crc="4248453083" seo="true" mt="1546933904898" redirect="true"/>
   <file name="side-hustle.html" crc="3930484686" seo="true" mt="1546933513483" redirect="true"/>
-  <file name="references.html" crc="19229716" seo="true" mt="1546932500760" redirect="true"/>
+  <file name="references.html" crc="3765576046" seo="true" mt="1546933910590" redirect="true"/>
   <file name="index.html" crc="125136192" seo="true" mt="1546930793049" redirect="true"/>
 </manifest>
