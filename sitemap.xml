@@ -28,6 +28,33 @@
     </image:image>
   </url>
   <url>
+    <loc>http://beverley-walter.github.io/side-hustle.html</loc>
+    <lastmod>2019-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/screen%20shot%202018-12-03%20at%20122400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/screen%20shot%202018-12-03%20at%20122421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/tec1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/tec2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/tec3.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/tec4.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/tec5.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://beverley-walter.github.io/case-studies.html</loc>
     <lastmod>2019-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,29 +106,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://beverley-walter.github.io/perconal-deets---cv.html</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/tec1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/tec2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/tec3.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/tec4.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/tec5.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://beverley-walter.github.io/references.html</loc>
-    <lastmod>2019-05-09</lastmod>
+    <lastmod>2019-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -130,16 +136,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://beverley-walter.github.io/side-hustle.html</loc>
-    <lastmod>2019-05-09</lastmod>
+    <loc>http://beverley-walter.github.io/personal-details---cv.html</loc>
+    <lastmod>2019-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/screen%20shot%202018-12-03%20at%20122400.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beverley-walter.github.io/images/screen%20shot%202018-12-03%20at%20122421.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://beverley-walter.github.io/images/tec1.svg</image:loc>
     </image:image>
