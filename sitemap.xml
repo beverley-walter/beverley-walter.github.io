@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://beverley-walter.github.io/index.html</loc>
-    <lastmod>2019-05-31</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://beverley-walter.github.io/case-studies.html</loc>
-    <lastmod>2019-05-22</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,13 +50,13 @@
   </url>
   <url>
     <loc>http://beverley-walter.github.io/personal-details---cv.html</loc>
-    <lastmod>2019-05-31</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://beverley-walter.github.io/references.html</loc>
-    <lastmod>2019-05-31</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>http://beverley-walter.github.io/side-hustle.html</loc>
-    <lastmod>2019-05-13</lastmod>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -79,6 +79,15 @@
     </image:image>
     <image:image>
       <image:loc>http://beverley-walter.github.io/images/screen%20shot%202018-12-03%20at%20122421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/cropped%20workshop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://beverley-walter.github.io/images/logo%20-%20hutt%20calligraphy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

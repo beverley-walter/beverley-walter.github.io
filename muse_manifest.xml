@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io" resolutions="1x" timestamp="1559261280428">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io" resolutions="1x" timestamp="1562154845087">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="386023860" ref="case-studies:index:personal-details---cv:references:side-hustle"/>
-    <file name="case-studies.css" crc="198214854" ref="case-studies"/>
+    <file name="master_a-master.css" crc="3836278876" ref="case-studies:index:personal-details---cv:references:side-hustle"/>
+    <file name="case-studies.css" crc="4293500890" ref="case-studies"/>
     <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
-    <file name="index.css" crc="420198051" ref="index"/>
+    <file name="index.css" crc="479888863" ref="index"/>
     <file name="iefonts_index.css" crc="450912746" ref="index"/>
-    <file name="personal-details---cv.css" crc="86705042" ref="personal-details---cv"/>
-    <file name="iefonts_personal-details---cv.css" crc="4281278510" ref="personal-details---cv"/>
-    <file name="references.css" crc="4129179364" ref="references"/>
+    <file name="personal-details---cv.css" crc="200145933" ref="personal-details---cv"/>
+    <file name="iefonts_personal-details---cv.css" crc="4284632699" ref="personal-details---cv"/>
+    <file name="references.css" crc="3759222275" ref="references"/>
     <file name="iefonts_references.css" crc="4184945849" ref="references"/>
-    <file name="side-hustle.css" crc="4144135013" ref="side-hustle"/>
-    <file name="iefonts_side-hustle.css" crc="3947606882" ref="side-hustle"/>
+    <file name="side-hustle.css" crc="366166408" ref="side-hustle"/>
+    <file name="iefonts_side-hustle.css" crc="4268207939" ref="side-hustle"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
@@ -24,12 +24,11 @@
     <file name="require.js" crc="7928878" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="personal-details---cv"/>
-    <file name="u145-8.png" crc="427102469" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
-    <file name="u242-8.png" crc="491045374" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
-    <file name="u246-8.png" crc="248741184" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
-    <file name="u153-8.png" crc="3950093196" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
-    <file name="u439-151.png" crc="340392180" ref="personal-details---cv"/>
+    <file name="blank.gif" crc="4208392903" ref="personal-details---cv:case-studies"/>
+    <file name="u145-8.png" crc="308107329" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u242-8.png" crc="3797641569" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u246-8.png" crc="4294379828" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u153-8.png" crc="97161415" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
     <file name="tht.jpg" crc="4269970467" seo="true" ref="case-studies">
       <caption webpage="case-studies" alt=""/>
     </file>
@@ -81,10 +80,20 @@
     <file name="41085387_10157278349931030_2602676226334130176_n.jpg" crc="327827906" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u439-153.png" crc="3903402986" ref="personal-details---cv"/>
+    <file name="cropped workshop.jpg" crc="257302509" seo="true" ref="side-hustle">
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="cover.jpg" crc="300563084" seo="true" ref="side-hustle">
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="logo - hutt calligraphy.jpg" crc="352297682" seo="true" ref="side-hustle">
+      <caption webpage="side-hustle" alt=""/>
+    </file>
   </folder>
-  <file name="personal-details---cv.html" crc="4019533007" seo="true" mt="1559260484641" redirect="true"/>
-  <file name="case-studies.html" crc="4223475456" seo="true" mt="1558514831736" redirect="true"/>
-  <file name="side-hustle.html" crc="119143414" seo="true" mt="1557697425928" redirect="true"/>
-  <file name="references.html" crc="3938713573" seo="true" mt="1559260512435" redirect="true"/>
-  <file name="index.html" crc="3833059312" seo="true" mt="1559260383681" redirect="true"/>
+  <file name="personal-details---cv.html" crc="4018391922" seo="true" mt="1562152580260" redirect="true"/>
+  <file name="case-studies.html" crc="70149618" seo="true" mt="1562154816607" redirect="true"/>
+  <file name="side-hustle.html" crc="316919577" seo="true" mt="1562154830726" redirect="true"/>
+  <file name="references.html" crc="331036649" seo="true" mt="1562152927950" redirect="true"/>
+  <file name="index.html" crc="459378335" seo="true" mt="1562154801073" redirect="true"/>
 </manifest>
